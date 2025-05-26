@@ -1,0 +1,6 @@
+{
+  "name": "ViralTokAINexus",
+  "description": "Un agent alimenté par l'IA pour aider à créer du contenu vidéo TikTok viral, de la génération d'idées aux suggestions de publication. Il s'appuie sur l'API Gemini pour la génération de contenu créatif.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
